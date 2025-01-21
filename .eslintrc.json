@@ -1,0 +1,6 @@
+{
+  "extends": ["next/core-web-vitals", "next/typescript"]
+}
+
+
+// ik min yeh karne h gitub pr
